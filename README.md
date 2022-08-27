@@ -3,7 +3,7 @@ Assessing Crisis Intervention Training (CIT)
 
 
 ## Project Description
-This project was to quantify the impact or lack of impact of CIT on crises that resulted in Level 2 or Level 3 uses of force (UOF) by police officers in the Seattle area.
+I was excited to be selected for the CorrelationOne Data Science for All Program. During this program, my team conducted a project on crisis intervention training specifically on the use of force incidents among Seattle Police. This project was to quantify the impact or lack of impact of CIT on crises that resulted in Level 2 or Level 3 uses of force (UOF) by police officers in the Seattle area. I had fun doing this project because I was able to use my skills in the data cleaning and analysis part of this project. 
 
 
 
@@ -27,6 +27,9 @@ There was an increase in Use of force incidents between May and August, we recom
 When comparing SPD data collection with other police departments (NOPD), we recommend that SPD collect additional UOF data such as reason for use of force, light condition, subject influencing factors, and subject height/build.
 
 Based on feature input the model outcome has an 82% accuracy at predicting if a Use of Force will occur. This information can help develop strategies for reducing the Use of Force incidents.
+
+## Data
+The data was provided by the Seattle Police Department. Some data was gotten from the use of force data from the website of the New Orleans Police Department. Check out the website, https://data.nola.gov/Public-Safety-and-Preparedness/NOPD-Use-of-Force-Incidents/9mnw-mbde
 
 
 ## Setup
