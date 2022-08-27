@@ -8,12 +8,12 @@ This project was to quantify the impact or lack of impact of CIT on crises that 
 
 
 ## Team Members
-*Kachi Ogbonnaya
-*Folake Olatoye-Ojo
-*Chris Rodriguez
-*Lamne Cleo Johnson
-*Raul Pena
-*Bianca Egbe  
+* Kachi Ogbonnaya
+* Folake Olatoye-Ojo
+* Chris Rodriguez
+* Lamne Cleo Johnson
+* Raul Pena
+* Bianca Egbe  
 
 
 
